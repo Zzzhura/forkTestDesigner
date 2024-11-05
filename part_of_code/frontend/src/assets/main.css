@@ -1,0 +1,26 @@
+@import url(./our_css/about_me.css);
+@import url(./our_css/bottom.css);
+@import url(./our_css/calculate_prices.css);
+@import url(./our_css/my_advantages.css);
+@import url(./our_css/navigation_menu.css);
+@import url(./our_css/portfolio.css);
+@import url(./our_css/request.css);
+@import url(./our_css/service.css);
+@import url(./our_css/small_section_about_me.css);
+@import url(./our_css/stages.css);
+
+
+body {
+    background: #5A5148;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+::selection {
+    background-color: #CCC;
+    color: #222;
+}

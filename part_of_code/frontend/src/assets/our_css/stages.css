@@ -1,0 +1,186 @@
+@font-face {
+    font-family: 'Bitter-Light';
+    src: url("../our_fonts/Bitter-Light.ttf") format('truetype');
+}
+
+.global_frame {
+    display: flex;
+    justify-content: center;
+
+    position: relative;
+    width: auto;
+    height: 2100px;
+}
+.main_frame_stages {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 0px;
+    height: 2000px;
+    background-color:#D0C9BF;
+    width: 1450px;
+}
+.steps_work { 
+    font-family: 'Bitter-Light';
+    margin-top: 20px;
+    text-align: right;
+    margin-right: 100px;
+    color: #4E4943;
+    font-weight: 100;
+    font-size: 65px;
+
+}
+.main_frame_stages h2 {
+    font-family: 'Bitter-Light';
+    color: #4E4943;
+
+    position: absolute;
+    font-size: 290px;
+    font-weight: 100;
+}
+.main_frame_stages p {
+    font-family: 'Bitter-Light';
+    color: #5B5147;
+    font-size: 21px;
+    font-weight: 100;
+}
+.main_frame_stages h6 {
+    font-family: 'Bitter-Light';
+    color: #5B5147;
+    font-size: 40px;
+    font-weight: 100;
+}
+.main_frame_stages img {
+    width: 420px;
+    height: 280px;
+}
+
+.technical_task_digital {
+    margin-left: 25px;
+    margin-top: 30px;
+    font-weight: 100;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.technical_task {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 1200px;
+    height: 335px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.1);
+}
+.technical_task h6 {
+    position: absolute;
+    color: #5B5147;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.technical_task p {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 35px;
+}
+.technical_task_image {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 750px;
+}
+
+.project_frame_digital {
+    margin-top: 30px;
+    margin-left: 1290px;
+    font-weight: 100;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.project_frame {
+    position: relative;
+    margin-top: 40px;
+    margin-left: 70px;
+    width: 1200px;
+    height: 335px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.1);
+}
+.project_frame h6 {
+    position: absolute;
+    color: #5B5147;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.project_frame p {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 550px;
+}
+.project_frame_image {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
+
+.visualization_digital {
+
+    margin-left:10px;
+    margin-top: 20px;
+    font-weight: 100;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.visualization {
+    position: relative;
+    margin-top: 30px;
+    margin-left: 180px;
+    width: 1200px;
+    height: 335px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.1);
+}
+.visualization h6 {
+    position: absolute;
+    color: #5B5147;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.visualization p {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 35px;
+}
+.visualization_image {
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 750px;
+}
+
+.work_documentation_digital {
+    margin-top: 30px;
+    margin-left: 1275px;
+    font-weight: 100;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.work_documentation {
+    position: relative;
+    margin-top: 40px;
+    margin-left: 70px;
+    width: 1200px;
+    height: 335px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 10px 3px rgba(0, 0, 0, 0.1);
+}
+.work_documentation h6 {
+    position: absolute;
+    color: #5B5147;
+    margin-top: 20px;
+    margin-left: 550px;
+}
+.work_documentation p {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 550px;
+}
+.work_documentation_image {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 30px;
+
+}
